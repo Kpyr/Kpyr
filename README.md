@@ -1,5 +1,5 @@
 <h3 align="center"> Welcome to my private space 👋 </h3>
-
+════════════════════════════════════════════════════════════════════════════════
 <p align="center">
   <h2 align="center">Skills</h2>
 </p>
@@ -8,3 +8,4 @@
     <img src="https://skillicons.dev/icons?i=github,js,html,css,ps,c,cs,cpp" />
   </a>
 </p>
+════════════════════════════════════════════════════════════════════════════════
