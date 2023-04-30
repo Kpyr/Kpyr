@@ -7,7 +7,7 @@
   <h2 align="center">Skills</h2>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=github,js,html,css,ps,figma,flask,c,cs,cpp,py" />
   </a>
 </p>
