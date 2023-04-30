@@ -1,7 +1,7 @@
 ### Welcome to my private space 👋
 
 <p align="center">
-  <h2>Skills</h2>
+  <h2 align="center">Skills</h2>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
