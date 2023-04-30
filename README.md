@@ -12,4 +12,4 @@
   </a>
 </p>
 <p align="center">═════════════════════════════════════════</p>
-<img ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kpyr&show_icons=true&theme=transparent)/>
+<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kpyr&show_icons=true&theme=transparent)" />
