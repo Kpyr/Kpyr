@@ -1,5 +1,5 @@
 <p align="center">═════════════════════════════════════════</p>
-<h3 align="center" href="google.com"> 👋 Welcome to my private space 👋 </h3>
+<h3 align="center"> 👋 Welcome to my private space 👋 </h3>
 <p align="center">═════════════════════════════════════════</p>
 <p align="center">Get in touch with me via <a href="https://discordapp.com/users/361867960714919947"> <img src="https://skillicons.dev/icons?i=discord" /></a> or <a href="https://t.me/Kpyr0">Telegram</a>
 </p>
